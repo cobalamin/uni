@@ -17,7 +17,7 @@
 - Bei Tabellen ebenso Einheiten und Variablennamen aufschreiben, wenn man welche erstellt!
 
 ## Wärmekapazitaten
-- Bei Wärmekapazitäten cv/cp gehen wir immer von idealen einatomigen Gasen aus (cv_m = 3/2*R, cp_m=5/2*R)! Diese Werte merken!
+- Bei Wärmekapazitäten cv/cp gehen wir immer von idealen einatomigen Gasen aus (cv_m = 3/2 * R, cp_m=5/2 * R)! Diese Werte merken!
 - cp_m - cv_m = R
 - Vorsicht bei Unterscheidung zwischen cv_m (molar, intensiv) und cv (auf n bezogen, extensiv) => cv = cv_m * n, cp = cp_m * n
 
@@ -59,8 +59,8 @@
 
 ### II)
 - Auftragungsaufgabe, sollte man machen können, denn es kommt höchstwahrscheinlich dran. Man muss linearisieren können (hier pV=nRT als y=mx+b):
-	=> V = nRT/p = n*R*T * (1/p) wobei n*R*T die Steigung ist (m), b ist hier dann 0
-	=> und graphisch aufgetragen und abgelesen, durch n*T geteilt, kann man dann R bestimmen
+	=> V = nRT/p = n * R * T * (1/p) wobei n * R * T die Steigung ist (m), b ist hier dann 0
+	=> und graphisch aufgetragen und abgelesen, durch (n * T) geteilt, kann man dann R bestimmen
 
 ### III)
 - "schöne Sache... brauchen wir aber in der Klausur nicht" (zu viel Aufwand für uns und sie zum korrigieren)
