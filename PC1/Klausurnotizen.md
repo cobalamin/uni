@@ -31,6 +31,7 @@
 
 ## aha (?):
 - ∆H = Q*p
+- 760 Torr = 1,013 bar -> merken!
 
 # Aufgaben
 
