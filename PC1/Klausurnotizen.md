@@ -60,9 +60,9 @@ zu einfach um in der Klausur dran zu kommen, aber auch grundlegend
 ### II)
 Auftragungsaufgabe, sollte man machen können, denn es kommt höchstwahrscheinlich dran. Man muss linearisieren können (hier pV=nRT als y=mx+b):
 
-	=> V = nRT/p = n * R * T * (1/p) wobei n * R * T die Steigung ist (m), b ist hier dann 0
+=> V = nRT/p = n * R * T * (1/p) wobei n * R * T die Steigung ist (m), b ist hier dann 0
 
-	=> und graphisch aufgetragen und abgelesen, durch (n * T) geteilt, kann man dann R bestimmen
+=> und graphisch aufgetragen und abgelesen, durch (n * T) geteilt, kann man dann R bestimmen
 
 ### III)
 - "schöne Sache... brauchen wir aber in der Klausur nicht" (zu viel Aufwand für uns und sie zum korrigieren)
