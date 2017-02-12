@@ -38,28 +38,30 @@
 ## Blatt 1
 
 ### 1,2
-- Kleine Konzeptfragen können dran kommen (z.B. Was ist Druck?), aber auf jeden Fall nicht viel
+Kleine Konzeptfragen können dran kommen (z.B. Was ist Druck?), aber auf jeden Fall nicht viel
 
 ### 3, 4
-- pV=nRT muss man im Schlaf anwenden können, kommt auch nicht in die Formelsammlung
+pV=nRT muss man im Schlaf anwenden können, kommt auch nicht in die Formelsammlung
 
 ### I)
-- joar, eigentlich auch nur Basics. Sollte man machen können.
+joar, eigentlich auch nur Basics. Sollte man machen können.
 
 ## Blatt 2
 
 ### 5, 6
-- vDW-Parameter sollte man verstanden haben
+vDW-Parameter sollte man verstanden haben
 
 ### 7, 8
-- Druck = Kraft/Fläche etc. ist unwahrscheinlich dass es dran kommt, aber sollte man auf jeden Fall können (grundlegend!). Sind außerdem evtl. Teilaufgaben
+Druck = Kraft/Fläche etc. ist unwahrscheinlich dass es dran kommt, aber sollte man auf jeden Fall können (grundlegend!). Sind außerdem evtl. Teilaufgaben
 
 ### 9
-- zu einfach um in der Klausur dran zu kommen, aber auch grundlegend
+zu einfach um in der Klausur dran zu kommen, aber auch grundlegend
 
 ### II)
-- Auftragungsaufgabe, sollte man machen können, denn es kommt höchstwahrscheinlich dran. Man muss linearisieren können (hier pV=nRT als y=mx+b):
+Auftragungsaufgabe, sollte man machen können, denn es kommt höchstwahrscheinlich dran. Man muss linearisieren können (hier pV=nRT als y=mx+b):
+
 	=> V = nRT/p = n * R * T * (1/p) wobei n * R * T die Steigung ist (m), b ist hier dann 0
+
 	=> und graphisch aufgetragen und abgelesen, durch (n * T) geteilt, kann man dann R bestimmen
 
 ### III)
@@ -69,13 +71,13 @@
 ## Blatt 3
 
 ### 10
-- alle genannten Prozesse sollte man in ein p-V-Diagramm einzeichnen können (und auch in ein T-S-Diagramm!)
+alle genannten Prozesse sollte man in ein p-V-Diagramm einzeichnen können (und auch in ein T-S-Diagramm!)
 
 ### 11
-- muss man im Schlaf können
+muss man im Schlaf können
 
 ### 12
-- Etwa Klausurniveau. Ebenso im Schlaf lösen können (wieso unterschiedliche Arbeit bei a) und b)? -> Antwort verstehen)
+Etwa Klausurniveau. Ebenso im Schlaf lösen können (wieso unterschiedliche Arbeit bei a) und b)? -> Antwort verstehen)
 Arbeit ist Fläche unter der Kurve ;)
 
 ### IV)
@@ -86,87 +88,87 @@ Arbeit ist Fläche unter der Kurve ;)
 ## Blatt 4
 
 ### 13, 14
-- können!
+können!
 
 ### 15
-- muss man mal anders einsetzen/anwenden als sonst. Sollte man auch machen können! Hilft beim "Flexibelmachen durch Üben"
+muss man mal anders einsetzen/anwenden als sonst. Sollte man auch machen können! Hilft beim "Flexibelmachen durch Üben"
 
 ### V)
-- mega kompliziert ist es nicht, aber viel Schreibaufwand... kommt nicht in der Klausur dran.
+mega kompliziert ist es nicht, aber viel Schreibaufwand... kommt nicht in der Klausur dran.
 
 ## Blatt 5
 
 ### 16
-- Sollte man schon verstanden haben und erklären können.
+Sollte man schon verstanden haben und erklären können.
 
 ### 17, 18
-- Praktische Aufgaben, weil alles zusammen kombiniert ist, und kann auch wahrscheinlich so dran kommen
+Praktische Aufgaben, weil alles zusammen kombiniert ist, und kann auch wahrscheinlich so dran kommen
 
 ### VI)
 - a, b kamen schon mal so ähnlich in der Klausur dran, nicht wahrscheinlich, aber nicht vollständig ignorieren!
 - c auch unwahrscheinlich
 
 ### VII)
-- kommt als Aufgabe nicht in der Klausur dran, zu viele Sachen
+kommt als Aufgabe nicht in der Klausur dran, zu viele Sachen
 
 ## Blatt 6
 
 ### 19
-- Satz von Hess muss man können, hochwahrscheinlich in der Klausur
+Satz von Hess muss man können, hochwahrscheinlich in der Klausur
 
 ### 20
-- Muss auch klar sein (inkl. Reinstoff bei Normalbedingungen: deltaBH := 0)
+Muss auch klar sein (inkl. Reinstoff bei Normalbedingungen: deltaBH := 0)
 
 ### 21, 22
-- Auf jeden Fall üben, damit es in der Klausur schnell nach Schema geht
+Auf jeden Fall üben, damit es in der Klausur schnell nach Schema geht
 
 ### 23
-- So in der Form unwahrscheinlich, vor Allem wird in der Klausur üblicherweise der T²-Term weggelassen
+So in der Form unwahrscheinlich, vor Allem wird in der Klausur üblicherweise der T²-Term weggelassen
 
 ### VIII)
-- eher unwahrscheinlich. wenn man will
+eher unwahrscheinlich. wenn man will
 
 ### IX)
-- gute Übung halt
+gute Übung halt
 
 ## Blatt 7
 
 ### 24
-- Wieder Satz von Hess, #mussmanwissen
+Wieder Satz von Hess, #mussmanwissen
 
 ### 25
-- *Wichtig!* Carnot-Kreisprozess kommt ziemlich sicher dran
+*Wichtig!* Carnot-Kreisprozess kommt ziemlich sicher dran
 
 ### X)
-- interessant zum Verständnis von Carnot-Kreisprozess
+interessant zum Verständnis von Carnot-Kreisprozess
 
 ### XI)
-- war noch nie in der Klausur. Kann man ignorieren
+war noch nie in der Klausur. Kann man ignorieren
 
 ## Blatt 8
 
 ### 26
-- #mussmanwissen (spontaner Vorgang, irreversibel/reversibel Entropieunterschied)
+Sollte man wissen (spontaner Vorgang, irreversibel/reversibel Entropieunterschied)
 
 ### 27, 28
-- muss man auch können
+muss man auch können
 
 ### XII)
-- kommt nicht dran
+kommt nicht dran
 
 ## Blatt 9
 
 ### 29
-- G,H,S Zusammenhang auswendig können: ∆G = ∆H - T*∆S
+G,H,S Zusammenhang auswendig können: ∆G = ∆H - T*∆S
 
 ### 30
-- Sollte klar sein
+Sollte klar sein
 
 ### 31
-- Kommt jedes mal in irgendeiner Form dran
+Kommt jedes mal in irgendeiner Form dran
 
 ### 32
-- Können!
+Können!
 
 ### XIII)
 - Zweite Auftragungsaufgabe, kommt so (oder auch eine Clausius-Clapeyron-Auftragung) viel wahrscheinlicher dran als die Erste Auftragungsaufgabe mit pV=nRT
@@ -175,7 +177,7 @@ Arbeit ist Fläche unter der Kurve ;)
 ## Blatt 10
 
 ### 33
-- schon wieder Satz von Hess, muss man können
+schon wieder Satz von Hess, muss man können
 
 ### 34
 - kam auch schon in Klausuren dran, wäre ein Geschenk
@@ -184,10 +186,10 @@ Arbeit ist Fläche unter der Kurve ;)
 ## Blatt 11
 
 ### 35
-- Prinzip von Le Chatelier unbedingt können, da man dieses oft zum Argumentieren braucht (Gleichgewichtsverschiebungen)
+Prinzip von Le Chatelier unbedingt können, da man dieses oft zum Argumentieren braucht (Gleichgewichtsverschiebungen)
 
 ### 36, 37
-- Bearbeiten, können, sind gute Anwendungsaufgaben von Le Chatelier
+Bearbeiten, können, sind gute Anwendungsaufgaben von Le Chatelier
 
 ## Blatt 12
 
@@ -206,4 +208,4 @@ Arbeit ist Fläche unter der Kurve ;)
 ## Blatt 13
 
 ### 40
-- (?) mach das mal
+(?) mach das mal
